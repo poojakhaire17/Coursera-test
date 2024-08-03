@@ -1,0 +1,27 @@
+/* Example CSS */
+body {
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333333; /* Dark text color */
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #ff6347; /* Tomato color for header */
+  color: #ffffff; /* White text in header */
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #4682b4; /* Steel blue color for headings */
+}
+
+a {
+  color: #ff4500; /* Orange color for links */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
